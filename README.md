@@ -1,2 +1,5 @@
 # sample-code
-showcasing some work I designed.
+Showcasing some work I designed.
+
+
+Feel free to have a look around some of My recent work.
